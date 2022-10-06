@@ -68,6 +68,8 @@ flutter:
     - assets/grid/4.jpg
     - assets/grid/5.jpg
     - assets/grid/6.jpg
+    - assets/images/LIP.png
+    - assets/images/lipp.jpg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
