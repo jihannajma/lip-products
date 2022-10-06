@@ -25,7 +25,7 @@ class OnboardingPage extends StatelessWidget {
           ),
 
           Image.asset(
-            'assets/images/LIP.png',
+            'assets/images/LIP2.png',
             height: 250,
             width: 250,
           ),
